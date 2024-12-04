@@ -243,7 +243,7 @@ listen: 0.0.0.0:4873
 #   ca: /usr/local/webserver/nginx/conf/cert/registry.hsslive.cn.csr
 
 # https://verdaccio.org/docs/configuration#proxy
-# http_proxy: http://registry.hsslive.cn/
+# http_proxy: https://registry.hsslive.cn/
 # https_proxy: https://registry.hsslive.cn/
 # https_proxy: https://something.local/
 
